@@ -19,7 +19,11 @@ h1 {
 }
 
 .paragraph-3{
+    border: 2px solid black;
+    border-radius: 2px;
     font-weight: bold;
-    font-size: 22pt;
-    font-family: 'Courier New';
+    font-size: 24pt;
+    font-style: oblique;
+    text-align: center;
+    box-shadow: 10px 5px 5px green;
 }
